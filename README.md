@@ -2,7 +2,7 @@
 - 👀 I’m interested in working as a frontend developer.
 - 🌱 I’m currently learning new technologies related to frontend.
 - 💞️ I’m looking to collaborate on prejects that challenge me.
-- 📫 How to reach me design4web2014@gmail.com
+- 📫 How to reach me monireh.dashtiani@gmail.com
 
 <!---
 webDeveloper67/webDeveloper67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
