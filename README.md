@@ -15,7 +15,7 @@
 
 ## 📬 Get in Touch
 - 📧 Email: [monireh.dashtiani@gmail.com](mailto:monireh.dashtiani@gmail.com)
-- - 💼 LinkedIn: [https://www.linkedin.com/in/monireh-dashtiani/](https://www.linkedin.com/in/monireh-dashtiani/) *(if available)*
+- 💼 LinkedIn: [https://www.linkedin.com/in/monireh-dashtiani/](https://www.linkedin.com/in/monireh-dashtiani/) *(if available)*
 
 
 💻 Always eager to learn and contribute to exciting projects! Let's build something great together. 🚀
