@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm WebDeveloper67!
 
-🚀 **Frontend Developer | Lifelong Learner | Open to Collaborations**
+👩‍💻 Frontend Developer | Lifelong Learner | Full-time Coder & Full-time Mom | Open to Collaborations
 
 ## About Me
 - 👀 Passionate about building sleek, user-friendly web applications.
